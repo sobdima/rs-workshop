@@ -1,3 +1,4 @@
 Hello, World!
 Changes from <master>
+New Changes 2
 
